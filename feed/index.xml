@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>YES Médicos</title>
+	<atom:link href="https://www.yesmedicos.com.br/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.yesmedicos.com.br/</link>
+	<description>Programa para clínicas e consultórios com telemedicina integrada</description>
+	<lastBuildDate>Wed, 15 May 2019 17:17:51 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5</generator>
+	<item>
+		<title>Nota sobre queda do dia 14 de maio de 2019</title>
+		<link>https://www.yesmedicos.com.br/nota-sobre-queda-do-dia-14-de-maio-de-2019/</link>
+		
+		<dc:creator><![CDATA[yes_isaias]]></dc:creator>
+		<pubDate>Wed, 15 May 2019 17:16:08 +0000</pubDate>
+				<category><![CDATA[Segurança]]></category>
+		<guid isPermaLink="false">http://www.yesmedicos.com.br/?p=763</guid>
+
+					<description><![CDATA[teste]]></description>
+										<content:encoded><![CDATA[
+<p>teste</p>
+      ]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

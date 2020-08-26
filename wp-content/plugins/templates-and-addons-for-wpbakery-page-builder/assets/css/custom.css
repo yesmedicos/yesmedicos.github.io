@@ -1,0 +1,18 @@
+.center-holder {
+    text-align: center !important;
+}
+.text-center {
+    text-align: center !important;
+}
+.text-right {
+    text-align: right;
+}
+.contact-form-md.contact-form-md input {
+    margin: -3px 0px;
+}
+.contact-form-md.wpcf7 p {
+    line-height: 0px;
+}
+.contact-form-md .wpcf7-form-control.wpcf7-textarea {
+    line-height: 3px;
+}
