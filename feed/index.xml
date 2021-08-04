@@ -12,25 +12,12 @@
 	<atom:link href="https://www.yesmedicos.com.br/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.yesmedicos.com.br/</link>
 	<description>Programa para clínicas e consultórios com telemedicina integrada</description>
-	<lastBuildDate>Wed, 15 May 2019 17:17:51 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 04 Aug 2021 18:53:49 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.3.8</generator>
-	<item>
-		<title>Nota sobre queda do dia 14 de maio de 2019</title>
-		<link>https://www.yesmedicos.com.br/nota-sobre-queda-do-dia-14-de-maio-de-2019/</link>
-				<pubDate>Wed, 15 May 2019 17:16:08 +0000</pubDate>
-		<dc:creator><![CDATA[yes_isaias]]></dc:creator>
-				<category><![CDATA[Segurança]]></category>
-
-		<guid isPermaLink="false">http://www.yesmedicos.com.br/?p=763</guid>
-				<description><![CDATA[teste]]></description>
-								<content:encoded><![CDATA[
-<p>teste</p>
-      ]]></content:encoded>
-										</item>
-	</channel>
+</channel>
 </rss>
