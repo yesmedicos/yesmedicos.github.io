@@ -74,10 +74,16 @@
 .wpcf7 .ajax-loader {
 	visibility: hidden;
 	display: inline-block;
+<<<<<<< HEAD
+	background-image: url('https://www.yesmedicos.com.br/wp-content/plugins/contact-form-7/assets/ajax-loader.gif');
+	width: 16px;
+	height: 16px;
+=======
 	background-color: #23282d; /* Dark Gray 800 */
 	opacity: 0.75;
 	width: 24px;
 	height: 24px;
+>>>>>>> 54d754ce40880fc5d130bb20a21793028ea2c616
 	border: none;
 	border-radius: 100%;
 	padding: 0;
