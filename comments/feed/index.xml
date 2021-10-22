@@ -11,11 +11,19 @@
 	<atom:link href="https://www.yesmedicos.com.br/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.yesmedicos.com.br/</link>
 	<description>Programa para clínicas e consultórios com telemedicina integrada</description>
+<<<<<<< HEAD
 	<lastBuildDate>Thu, 04 Feb 2021 13:04:18 +0000</lastBuildDate>
+=======
+	<lastBuildDate>Thu, 21 Oct 2021 16:47:31 +0000</lastBuildDate>
+>>>>>>> 54d754ce40880fc5d130bb20a21793028ea2c616
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+<<<<<<< HEAD
 	<generator>https://wordpress.org/?v=5.5.3</generator>
+=======
+	<generator>https://wordpress.org/?v=5.3.8</generator>
+>>>>>>> 54d754ce40880fc5d130bb20a21793028ea2c616
 </channel>
 </rss>

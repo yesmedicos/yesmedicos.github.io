@@ -18,23 +18,23 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
+<<<<<<< HEAD
 	<generator>https://wordpress.org/?v=5.5.3</generator>
+=======
+	<generator>https://wordpress.org/?v=5.3.8</generator>
+>>>>>>> 54d754ce40880fc5d130bb20a21793028ea2c616
 	<item>
 		<title>Nota sobre queda do dia 14 de maio de 2019</title>
 		<link>https://www.yesmedicos.com.br/nota-sobre-queda-do-dia-14-de-maio-de-2019/</link>
-		
+				<pubDate>Wed, 15 May 2019 17:16:08 +0000</pubDate>
 		<dc:creator><![CDATA[yes_isaias]]></dc:creator>
-		<pubDate>Wed, 15 May 2019 17:16:08 +0000</pubDate>
 				<category><![CDATA[Segurança]]></category>
-		<guid isPermaLink="false">http://www.yesmedicos.com.br/?p=763</guid>
 
-					<description><![CDATA[teste]]></description>
-										<content:encoded><![CDATA[
+		<guid isPermaLink="false">http://www.yesmedicos.com.br/?p=763</guid>
+				<description><![CDATA[teste]]></description>
+								<content:encoded><![CDATA[
 <p>teste</p>
       ]]></content:encoded>
-					
-		
-		
-			</item>
+										</item>
 	</channel>
 </rss>
