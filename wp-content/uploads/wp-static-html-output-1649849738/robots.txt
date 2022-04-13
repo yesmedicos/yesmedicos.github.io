@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+
+Sitemap: https://www.yesmedicos.com.br/sitemap.xml
+Sitemap: https://www.yesmedicos.com.br/sitemap.rss
+

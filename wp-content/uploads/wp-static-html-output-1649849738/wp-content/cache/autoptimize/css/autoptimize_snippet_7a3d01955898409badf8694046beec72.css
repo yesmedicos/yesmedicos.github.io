@@ -1,0 +1,49 @@
+.botao_azul_degrade {background: #53cbf1;background: -moz-linear-gradient(45deg,#53cbf1 15%,#05abe0 100%);background: -webkit-linear-gradient(45deg,#53cbf1 15%,#05abe0 100%);background: linear-gradient(45deg,#53cbf1 15%,#05abe0 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#53cbf1",endColorstr="#05abe0",GradientType=1);-webkit-border-radius: 7px;border-radius: 7px;-webkit-box-shadow: 2px 2px 5px 2px #d1d1d1 !important;box-shadow: 2px 2px 5px 2px #d1d1d1 !important;font-family: "Asap",sans-serif !important;color: #fff;padding: 15px !important;text-decoration: none !important;text-transform: uppercase !important;font-weight: 700 !important;display: inline-block !important;font-size: 22px !important;margin: 15px !important;}
+.botao_azul_constante {background: #067ebf;-webkit-border-radius: 7px;border-radius: 7px;-webkit-box-shadow: 2px 2px 5px 2px #d1d1d1 !important;box-shadow: 2px 2px 5px 2px #d1d1d1 !important;font-family: "Asap",sans-serif !important;color: #fff;padding: 15px !important;text-decoration: none !important;text-transform: uppercase !important;font-weight: 700 !important;display: inline-block !important;font-size: 22px !important;margin: 15px !important;text-align: center;}
+.botao_branco_constante {background: #fff;-webkit-border-radius: 7px;border-radius: 7px;font-family: "Asap",sans-serif !important;color: #067ebf;padding: 15px !important;text-decoration: none !important;text-transform: uppercase !important;font-weight: 700 !important;display: inline-block !important;font-size: 22px !important;margin: 15px !important;text-align: center;}
+.rev_slider_wrapper h2:after {height: 0 !important;}
+.background_degrade {background: #f0f9ff;background: -moz-linear-gradient(left,#f0f9ff 0%,#cbebff 71%,#a1dbff 100%);background: -webkit-linear-gradient(left,#f0f9ff 0%,#cbebff 71%,#a1dbff 100%);background: linear-gradient(to right,#f0f9ff 0%,#cbebff 71%,#a1dbff 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f0f9ff",endColorstr="#a1dbff",GradientType=1);}
+.background_degradeazul_escuro {background: #28cafc;background: -moz-linear-gradient(left,#28cafc 0%,#2387bc 100%);background: -webkit-linear-gradient(left,#28cafc 0%,#2387bc 100%);background: linear-gradient(to right,#28cafc 0%,#2387bc 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#28cafc",endColorstr="#2387bc",GradientType=1);}
+.background_azul_claro {background: #f4fbff;}
+.icone-home {margin-left: 20px;margin-right: 20px;width: 80px;text-align: center;}
+.float-right {float: right;}
+.float-left {float: left;}
+.icone-home i {font-size: 55px;color: #067ebf;min-height: 110px;}
+.item-home-icones {margin-top: 50px;}
+.main-color {font-weight: 700;}
+.ptp-plan {background-color: #fff !important;margin-top: 5px !important;}
+.ptp-price {background-color: #fff !important;height: 205px;margin-top: -60px !important;}
+.ptp-most-popular {background-color: #3498db !important;}
+.ptp-cta {background-color: #fff !important;}
+.ptp-row-id-0 {background-color: #f5f5f5 !important;}
+.ptp-highlight .ptp-item-container .ptp-price, .ptp-highlight .ptp-item-container .ptp-plan {color: #3498db !important;}
+.footer {margin-top: 0 !important;}
+.nav-outer {float: left !important;margin-left: 30px !important;}
+.botoes_header {float: right;font-size: 17px !important;}
+.mainmenu-area .navbar {margin-bottom: 0 !important;}
+.programa_de_atualizacoes img {width: 100vw !important;}
+.campo-form-contato {width: 100%;border: 3px solid #5eb7f3;margin: 5px;font-size: x-large;}
+.h1cinza, .h1cinza h1 {color: #b4b4b4;font-weight: 700 !important;}
+.img_home_especificos {width: 100vw !important;}
+.icone_pagina_especifica {text-align: center;padding: 15px;height: 300px;}
+.icone_pagina_especifica i {margin-bottom: 15px;background: #28cafc;background: -moz-linear-gradient(left,#28cafc 0%,#2387bc 100%);background: -webkit-linear-gradient(left,#28cafc 0%,#2387bc 100%);background: linear-gradient(to right,#28cafc 0%,#2387bc 100%);filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#28cafc",endColorstr="#2387bc",GradientType=1);-webkit-border-radius: 7px;border-radius: 7px;color: #fff;padding: 15px !important;display: inline-block !important;font-size: 45px !important;width: 80px;height: 80px;}
+.icone_pagina_especifica .titulo {width: 200px;height: 50px;text-align: center;margin: 0 auto;margin-top: -10px;margin-bottom: 15px;font-weight: 700 !important;}
+.icone_pagina_especifica p {text-align: left;}
+.assinarform input {font-size: 20px;height: 65px !important;}
+.navbar .navbar-collapse ul>li>a {background: #fff !important;color: #000 !important;}
+.nav-outer {width: auto !important;text-align: center !important;}
+#headerwrap {background-color: #0c99d5;background-image: linear-gradient(to bottom,rgba(12,153,213,0) 0,rgba(12,153,213,0) 100px,#0c99d5 450px,#0c99d5),repeating-linear-gradient(118deg,rgba(12,153,213,0) 0,#00a7e0 550px,rgba(12,153,213,0) 550px,#00a7e0 800px,rgba(12,153,213,0) 800px,#00a7e0 950px);margin-top: -20px;padding-top: 200px;background-attachment: relative;background-position: center center;min-height: 650px;width: 100%;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;}
+#headerwrap h1 {margin-top: 60px;margin-bottom: 15px;color: #fff;font-size: 45px;font-weight: 300;letter-spacing: 1px;}
+.fullscreen .modal-dialog {margin: 0;width: 100%;height: 100%;min-height: 100%;padding: 0;color: #333;}
+.fullscreen .modal-body {color: #000;height: calc(100% - 120px);overflow-y: auto;overflow-x: hidden;}
+.fullscreen .modal-content {height: 100%;min-height: 100%;border-radius: 0;color: #333;background: rgba(255,255,255,.97);}
+.fullscreen .modal-body ul {padding: 100px 0 0;overflow: auto;}
+.fullscreen .modal-body li {padding: 10px 0;}
+@media (max-width:480px) {.fullscreen .modal-body ul {padding: 30px 0 0;overflow: auto;}
+	.fullscreen .modal-body li {padding: 4px 0;}
+	.fullscreen .modal-body a {color: #333;font-size: 200%;text-transform: uppercase;font-weight: 700;}}
+@media screen {#printSection {display: none;}}
+@media print {#resp_c {width: 100%;overflow-y: hidden;overflow-x: hidden;}
+	body * {visibility: hidden;}
+	#printSection, #printSection * {visibility: visible;}
+	#printSection {position: absolute;left: 0;top: 0;}}
