@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.yesmedicos.com.br/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- Sitemap is generated on 2026-01-27 16:07:23 GMT -->
+	<url>
+		<loc>https://www.yesmedicos.com.br/</loc>
+		<lastmod>2026-01-27T07:22:07+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.yesmedicos.com.br/testar/</loc>
+		<lastmod>2026-01-27T18:53:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.yesmedicos.com.br/gestores/</loc>
+		<lastmod>2025-12-16T18:55:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.yesmedicos.com.br/recepcionista/</loc>
+		<lastmod>2025-12-16T18:53:19+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.yesmedicos.com.br/demonstracao-recepcionista/</loc>
+		<lastmod>2026-01-27T18:42:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.yesmedicos.com.br/demonstracao-medicos/</loc>
+		<lastmod>2026-01-27T18:43:38+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.yesmedicos.com.br/medicos/</loc>
+		<lastmod>2025-12-16T18:50:12+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.yesmedicos.com.br/politica-de-privacidade/</loc>
+		<lastmod>2026-01-03T11:00:10+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.yesmedicos.com.br/termos-de-uso/</loc>
+		<lastmod>2026-01-03T10:56:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.yesmedicos.com.br/demonstracao/</loc>
+		<lastmod>2026-01-27T18:54:54+00:00</lastmod>
+	</url>
+</urlset>
+<!-- O sitemap é servido do cache -->
