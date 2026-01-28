@@ -1,0 +1,31 @@
+# Robots.txt for tv.yes.med.br
+User-agent: *
+Allow: /
+
+# Allow all AI crawlers and LLMs
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Omgilibot
+Allow: /
+
+# Sitemap location
+Sitemap: https://tv.yes.med.br/sitemap.xml

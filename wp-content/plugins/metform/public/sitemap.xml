@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://tv.yes.med.br</loc>
+    <lastmod>2025-12-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://tv.yes.med.br/assets/images/screenshot.jpg</image:loc>
+      <image:title>Painel De Espera para Clínicas - YES Médicos</image:title>
+      <image:caption>Painel de espera digital integrado com agenda médica para clínicas e consultórios</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://tv.yes.med.br/assets/images/logo.png</image:loc>
+      <image:title>YES Médicos Logo</image:title>
+    </image:image>
+  </url>
+</urlset>
